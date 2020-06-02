@@ -1,0 +1,7 @@
+{
+  //states which packages from babel we want (babel-preset-env, babel-preset-stage-3)
+  "presets": [
+    "env",
+    "stage-3"
+  ]
+}
