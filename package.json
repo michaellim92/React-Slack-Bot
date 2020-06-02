@@ -1,0 +1,19 @@
+{
+  "name": "react-slack-bot",
+  "version": "1.0.0",
+  "description": "Slack Clone using GraphQL and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaellim92/React-Slack-Bot.git"
+  },
+  "author": "Michael Lim <michael.limnh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaellim92/React-Slack-Bot/issues"
+  },
+  "homepage": "https://github.com/michaellim92/React-Slack-Bot#readme"
+}
